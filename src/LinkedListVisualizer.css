@@ -1,0 +1,41 @@
+.visualizer {
+  margin-top: 20px;
+}
+
+input {
+  padding: 8px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 8px 12px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.linked-list {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.node {
+  display: flex;
+  align-items: center;
+  margin: 5px;
+}
+
+.node span {
+  padding: 10px;
+  background-color: #4caf50;
+  color: white;
+  border-radius: 4px;
+}
+
+.arrow {
+  margin-left: 8px;
+  margin-right: 8px;
+  font-size: 20px;
+}
